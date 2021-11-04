@@ -43,9 +43,9 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 3 </p>
+    <p> Bài 3 </p>
     <div>
-        <h1 id="exercises">
+        <h1>
           
                 <p><sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub> </p>  
                 <p>- Sử dụng vòng lặp để tính </p>
@@ -55,7 +55,7 @@
     </div>
     <p > Bài 4 </p>
     <div>
-        <h1 id="exercises">
+        <h1>
           
                 <p> Dạng tổng quát: tại thời điểm i, biểu thức có dạng: (-1)<sup>i</sup>.x<sup>2i</sup> </p>
                 <p>- Sử dụng vòng lặp để tính </p>
@@ -65,7 +65,7 @@
     </div>
     <p> Bài 5 </p>
     <div>
-        <h1 id="exercises">
+        <h1>
           
                 <n> Thử chạy tay với biến x và n đủ nhỏ để tìm thuật toán phù hợp, chạy từ ở trong ra </p>
                 <p>- Sử dụng vòng lặp để tính </p>
