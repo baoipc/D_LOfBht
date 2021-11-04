@@ -53,7 +53,7 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 4 </p>
+    <p > Bài 4 </p>
     <div>
         <h1 id="exercises">
           
@@ -63,7 +63,7 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 5 </p>
+    <p> Bài 5 </p>
     <div>
         <h1 id="exercises">
           
@@ -74,7 +74,7 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 6 </p>
+    <p> Bài 6 </p>
     <div>
         <h1 id="exercises">
         
@@ -83,7 +83,7 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 7 </p>
+    <p> Bài 7 </p>
     <div>
         <h1 id="exercises">
         
@@ -94,7 +94,7 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 8 </p>
+    <p> Bài 8 </p>
     <div>
         <h1 id="exercises">
         
@@ -110,7 +110,7 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 9 </p>
+    <p> Bài 9 </p>
     <div>
         <h1 id="exercises">
         
@@ -119,7 +119,7 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 10 </p>
+    <p> Bài 10 </p>
     <div>
         <h1 id="exercises">
         
