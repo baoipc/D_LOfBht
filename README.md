@@ -47,8 +47,7 @@
     <div>
         <h1 id="exercises">
           
-            <p><sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub> </p>
-                
+                <p><sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub> </p>  
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Dùng 2 biến để tính tử và mẫu: tu*=x,mau+=i </p>
             </p>  
@@ -58,7 +57,7 @@
     <div>
         <h1 id="exercises">
           
-                <span> Dạng tổng quát: tại thời điểm i, biểu thức có dạng: (-1)<sup>i</sup>.x<sup>2i</sup> </span>
+                <p> Dạng tổng quát: tại thời điểm i, biểu thức có dạng: (-1)<sup>i</sup>.x<sup>2i</sup> </p>
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Dùng 2 biến để tính giá trị (-1)<sup>i</sup> và giá trị x<sup>2i</sup> tại thời điểm i </p>
             </p>  
@@ -68,7 +67,7 @@
     <div>
         <h1 id="exercises">
           
-                <span> Thử chạy tay với biến x và n đủ nhỏ để tìm thuật toán phù hợp, chạy từ ở trong ra </span>
+                <n> Thử chạy tay với biến x và n đủ nhỏ để tìm thuật toán phù hợp, chạy từ ở trong ra </p>
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Tại thời điểm i: sqrt(x<sup>i</sup>+sqrt(x<sup>i-1</sup>+sqrt(..+sqrt(x))))  </p>
                 <p>- Dùng 2 biến để tính giá trị x và tổng giá trị căn tại thời điểm i</p>
@@ -88,7 +87,7 @@
     <div>
         <h1 id="exercises">
         
-                <span> Dạng tổng quát: tại thời điểm i (i>1), biểu thức có dạng: a<sub>n</sub>=5.a<sub>i-1</sub>+2.3<sup>i</sup>-6.7<sup>i</sup>+12</span>
+                <p> Dạng tổng quát: tại thời điểm i (i>1), biểu thức có dạng: a<sub>n</sub>=5.a<sub>i-1</sub>+2.3<sup>i</sup>-6.7<sup>i</sup>+12</p>
                 <p> - Khởi tạo a<sub>1</sub>=-2 </p>
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Sử dụng 3 biến để tính (tại thời điểm i): 5.a<sub>i-1</sub>,2.3<sup>i</sup>,-6.7<sup>i</sup>+12</p>
@@ -116,7 +115,7 @@
         <h1 id="exercises">
         
                 <p>- Trong khi code, có thể dùng sqrt() và ép kiểu về int </p>
-                <span>- Kiểm tra tích sqrt() có bằng n hay không( dựa vào tính chất số chính phương) hoặc ta có thể dùng vòng for từ 1 đến n/2 để kiểm tra,nếu i.i = n thì n là số chính phương còn nếu vòng lặp không số nào thỏa thì n không phải số chính phương</span>
+                <p>- Kiểm tra tích sqrt() có bằng n hay không( dựa vào tính chất số chính phương) hoặc ta có thể dùng vòng for từ 1 đến n/2 để kiểm tra,nếu i.i = n thì n là số chính phương còn nếu vòng lặp không số nào thỏa thì n không phải số chính phương</p>
             </p>  
         </h1>
     </div>
@@ -127,7 +126,7 @@
                 <span> N có dạng 5<sub>m</sub>(m>=0) là N chia hết cho 5, ta chỉ cần N/5 đến khi nào N<span data-entity="&amp;lt;" data-code="&amp;#60;" data-unicode="\003C" data-hex="&amp;#x3c;" data-css="\3C ">
                         &lt;            </span>5 và xem khi N<span data-entity="&amp;lt;" data-code="&amp;#60;" data-unicode="\003C" data-hex="&amp;#x3c;" data-css="\3C ">
                         &lt;            </span>5 có dư hay không
-</span>5 có dư hay không </span>
+</span>5 có dư hay không </p>
                 <p>Nếu dư thì N không phải dạng 5<sup>m</sup> Ngược lại thì N là dạng 5<sup>m</sup> </p>
             </p>  
         </h1>
