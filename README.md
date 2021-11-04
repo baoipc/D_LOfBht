@@ -118,7 +118,7 @@
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
-                <span> N có dạng 5<sub>m</sub>(m>=0) là N chia hết cho 5, ta chỉ cần N/5 đến khi nào N<span data-entity="&amp;lt;" data-code="&amp;#60;" data-unicode="\003C" data-hex="&amp;#x3c;" data-css="\3C ">
+                <span> N có dạng 5<sup>m</sup>(m>=0) là N chia hết cho 5, ta chỉ cần N/5 đến khi nào N<span data-entity="&amp;lt;" data-code="&amp;#60;" data-unicode="\003C" data-hex="&amp;#x3c;" data-css="\3C ">
                         &lt;            </span>5 và xem khi N<span data-entity="&amp;lt;" data-code="&amp;#60;" data-unicode="\003C" data-hex="&amp;#x3c;" data-css="\3C ">
                         &lt;            </span>5 có dư hay không
 </span>5 có dư hay không </span>
