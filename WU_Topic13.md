@@ -1,11 +1,33 @@
-<html>
-<body>
-    <h1> Topic 1+3 </h1>
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+    <meta name ="viewport" content="width=device-width,initial-scale=1"/>
+    <style> 
+        #exercises
+        {
+            font-size:24px;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color:indianred;
+        }
+        #Code
+        {
+            font-size:26px;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color:lightsalmon; 
+        }
+    </style>
+</head>
+
+<body style="background-color:plum; ">
+    <title>
+        Topic 1+3
+    </title>
+    <h1 style="text-align:center;font-family:Arial;background-color:pink;font-size:50px;"> Vẽ lưu đồ thuật toán và code lại </h1>
     <span>
         <p style="color:blue;font-size:20px;font-family:Arial;font-size:30px;">Thư mục chứa đề tại
         <a href="https://drive.google.com/drive/folders/1-huEQhc7c4zG3i7XNkEUlXylODyWNHL7" target="_blank" style="text-decoration: none;color:red;font-size: 25px;"> đây </a>
         </p>
-        <p> File code bên bht giữ :> </p>
     </span>
     <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 1</h2>  </p>
     <div>
@@ -18,11 +40,13 @@
                 <p> x<sup>4</sup>=x<sup>2</sup>.x<sup>2</sup> -> 1 phép nhân </p>
             </p>
         </h1>
-        <p style="font-weight: italic;" id="Code">Code:
-        <p>Dùng 1 biến là biến x để nhập dữ liệu đầu vào </p>
-        <p>Dùng 1 biến để lưu trữ x<sup>2</sup></p>
-        <p>Dùng 1 biến để lưu trữ x<sup>4</sup></p>
-        </p>
+        <div style="font-weight: italic;" id="Code">Code: 
+            <ul>
+                <li>Dùng 1 biến là biến x để nhập dữ liệu đầu vào </li>
+                <li>Dùng 1 biến để lưu trữ x<sup>2</sup></li>
+                <li>Dùng 1 biến để lưu trữ x<sup>4</sup></li>
+            </ul>
+        </div>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 2</h2> </p>
     <div>
@@ -103,7 +127,7 @@
                 </ol>
             </p>  
         </h1>
-        <p id="Code">Code:Có thể dùng if then else hoặc dùng hàm để chia trường hợp</p>
+        <p id="Code">Code:Có thể dùng if then else dùng hàm để chia trường hợp</p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 9</h2> </p>
     <div>
