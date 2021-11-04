@@ -15,7 +15,7 @@
             </p>  
             <p>
                 <p> x<sup>2</sup>=x.x -> 1 phép nhân </p>
-                <p> x<sup>4</sup>=x<sup>2</sup>.x<sup>2</sup> -> 2.2 phép nhân </p>
+                <p> x<sup>4</sup>=x<sup>2</sup>.x<sup>2</sup> -> 1 phép nhân </p>
             </p>
         </h1>
         <p style="font-weight: italic;" id="Code">Code:
