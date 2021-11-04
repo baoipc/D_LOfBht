@@ -10,6 +10,12 @@
             font-family: Arial, Helvetica, sans-serif;
             background-color:indianred;
         }
+        #Code
+        {
+            font-size:26px;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color:lightsalmon; 
+        }
     </style>
 </head>
 
@@ -34,6 +40,11 @@
                 <p> x<sup>4</sup>=x<sup>2</sup>.x<sup>2</sup> -> 2.2 phép nhân </p>
             </p>
         </h1>
+        <p style="font-weight: italic;" id="Code">Code:
+        <p>Dùng 1 biến là biến x để nhập dữ liệu đầu vào </p>
+        <p>Dùng 1 biến để lưu trữ x<sup>2</sup></p>
+        <p>Dùng 1 biến để lưu trữ x<sup>4</sup></p>
+        </p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 2 </p>
     <div>
@@ -42,6 +53,7 @@
                 Tính tổng các chữ số: lấy tổng các kết quả n lấy phần dư cho 10,n chia cho 10 -> Sử dụng vòng lặp. Lặp đến khi nào n=0
             </p>  
         </h1>
+        <p id="Code">Code có thể dùng cách: chuyển số qua dạng string, dùng for duyệt từng phần tử của chuỗi tính tổng các kí tự ( khi đã chuyển sang int) </p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 3 </p>
     <div>
@@ -52,6 +64,7 @@
                 <p>- Dùng 2 biến để tính tử và mẫu: tu*=x,mau+=i </p>
             </p>  
         </h1>
+        <p id="Code">Code: dùng setprecision() và fixed in ra phần thập phân, biến kết quả là kiểu thực</p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 4 </p>
     <div>
@@ -73,6 +86,7 @@
                 <p>- Dùng 2 biến để tính giá trị x và tổng giá trị căn tại thời điểm i</p>
             </p>  
         </h1>
+        <p id="Code">Code:Hàm swap nên viết bằng tay bằng cách truyền tham chiếu</p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 6 </p>
     <div>
@@ -82,6 +96,7 @@
                 <p>- Lần 2: Lặp đến khi nào sum=1+<sup>1</sup>&frasl;<sub>2</sub>+<sup>1</sup>&frasl;<sub>3</sub>+...+<sup>1</sup>&frasl;<sub>n</sub> có độ chính xác 10<sup>-6</sup>  </p>                
             </p>  
         </h1>
+        <p id="Code">Code:Bỏ tư tưởng như thuật ban đầu, biến kết quả là kiểu thực</p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 7 </p>
     <div>
@@ -93,6 +108,7 @@
                 <p>- Sử dụng 3 biến để tính (tại thời điểm i): 5.a<sub>i-1</sub>,2.3<sup>i</sup>,-6.7<sup>i</sup>+12</p>
             </p>  
         </h1>
+        <p id="Code">Code:Khi n = 1 nên xuất kết quả và dừng chương trình ngược lại (i>2) cho vòng lặp chạy từ 2</p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 8 </p>
     <div>
@@ -109,6 +125,7 @@
                 </ol>
             </p>  
         </h1>
+        <p id="Code">Code:Có thể dùng if then else dùng hàm để chia trường hợp</p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 9 </p>
     <div>
@@ -118,6 +135,7 @@
                 <span>- Kiểm tra tích sqrt() có bằng n hay không( dựa vào tính chất số chính phương) hoặc ta có thể dùng vòng for từ 1 đến n/2 để kiểm tra,nếu i.i = n thì n là số chính phương còn nếu vòng lặp không số nào thỏa thì n không phải số chính phương</span>
             </p>  
         </h1>
+        <p id="Code">Code: Khi lấy sqrt(n) nên đưa về kiểu int (dùng ép kiểu)</p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 10 </p>
     <div>
@@ -130,6 +148,7 @@
                 <p>Nếu dư thì N không phải dạng 5<sup>m</sup> Ngược lại thì N là dạng 5<sup>m</sup> </p>
             </p>  
         </h1>
+        <p id="Code">Code: nên nhớ trường hợp n=1 và code cẩn thận</p>
     </div>
 </body>
 
