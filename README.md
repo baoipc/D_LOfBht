@@ -102,7 +102,7 @@
                 </ol>
             </p>  
         </h1>
-        <p id="Code">Code:Có thể dùng if then else dùng hàm để chia trường hợp</p>
+        <p id="Code">Code:Có thể dùng if then else hoặc dùng hàm để chia trường hợp</p>
     </div>
     <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 9</h2> </p>
     <div>
