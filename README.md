@@ -1,10 +1,11 @@
 <html>
 <body>
-    <h1> Vẽ lưu đồ thuật toán </h1>
+    <h1> Topic 1+3 </h1>
     <span>
         <p style="color:blue;font-size:20px;font-family:Arial;font-size:30px;">Thư mục chứa đề tại
         <a href="https://drive.google.com/drive/folders/1-huEQhc7c4zG3i7XNkEUlXylODyWNHL7" target="_blank" style="text-decoration: none;color:red;font-size: 25px;"> đây </a>
         </p>
+        <p> File code bên bht giữ :> </p>
     </span>
     <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 1</h2>  </p>
     <div>
