@@ -29,7 +29,7 @@
         <a href="https://drive.google.com/drive/folders/1-huEQhc7c4zG3i7XNkEUlXylODyWNHL7" target="_blank" style="text-decoration: none;color:red;font-size: 25px;"> đây </a>
         </p>
     </span>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 1 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2> Bài 1 </h2> </p>
     <div>
         <h1 id="exercises">
             <p>
