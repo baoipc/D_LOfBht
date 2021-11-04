@@ -1,20 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head lang="en">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
-    <meta name ="viewport" content="width=device-width,initial-scale=1"/>
-    <style>
-        #first
-        {
-            font-family: 'Courier New', Courier, monospace;
-            font-weight: bold;
-            font-size: 24px;
-            background-color:mediumpurple;
-        }
-    </style>
-</head>
 <body>
-    <title> WU Topic 2 </title>
     <p><h1>Topic: function,array(1d and 2d),string,struct</h1></p>
     <p><h2>I.Hàm</h2></p>
     <p id ="first">
