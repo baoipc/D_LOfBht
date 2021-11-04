@@ -23,13 +23,13 @@
     <title>
         Topic 1
     </title>
-    <h1 style="text-align:center;font-family:Arial;background-color:pink;font-size:50px;"> Vẽ lưu đồ thuật toán </h1>
+    <h1> Vẽ lưu đồ thuật toán </h1>
     <span>
         <p style="color:blue;font-size:20px;font-family:Arial;font-size:30px;">Thư mục chứa đề tại
         <a href="https://drive.google.com/drive/folders/1-huEQhc7c4zG3i7XNkEUlXylODyWNHL7" target="_blank" style="text-decoration: none;color:red;font-size: 25px;"> đây </a>
         </p>
     </span>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2> Bài 1 </h2> </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 1</h2>  </p>
     <div>
         <h1 id="exercises">
             <p>
@@ -46,7 +46,7 @@
         <p>Dùng 1 biến để lưu trữ x<sup>4</sup></p>
         </p>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 2 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 2</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
@@ -55,7 +55,7 @@
         </h1>
         <p id="Code">Code có thể dùng cách: chuyển số qua dạng string, dùng for duyệt từng phần tử của chuỗi tính tổng các kí tự ( khi đã chuyển sang int) </p>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 3 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 3</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
@@ -66,7 +66,7 @@
         </h1>
         <p id="Code">Code: dùng setprecision() và fixed in ra phần thập phân, biến kết quả là kiểu thực</p>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 4 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 4</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
@@ -76,7 +76,7 @@
             </p>  
         </h1>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 5 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 5</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
@@ -88,7 +88,7 @@
         </h1>
         <p id="Code">Code:Hàm swap nên viết bằng tay bằng cách truyền tham chiếu</p>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 6 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 6</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
@@ -98,7 +98,7 @@
         </h1>
         <p id="Code">Code:Bỏ tư tưởng như thuật ban đầu, biến kết quả là kiểu thực</p>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 7 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 7</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
@@ -110,7 +110,7 @@
         </h1>
         <p id="Code">Code:Khi n = 1 nên xuất kết quả và dừng chương trình ngược lại (i>2) cho vòng lặp chạy từ 2</p>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 8 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 8</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
@@ -127,7 +127,7 @@
         </h1>
         <p id="Code">Code:Có thể dùng if then else dùng hàm để chia trường hợp</p>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 9 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 9</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
@@ -137,7 +137,7 @@
         </h1>
         <p id="Code">Code: Khi lấy sqrt(n) nên đưa về kiểu int (dùng ép kiểu)</p>
     </div>
-    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 10 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> <h2>Bài 10</h2> </p>
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
