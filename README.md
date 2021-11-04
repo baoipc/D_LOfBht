@@ -17,7 +17,7 @@
     <title>
         Topic 1
     </title>
-    <h1> Vẽ lưu đồ thuật toán </h1>
+    <h1 style="text-align:center;font-family:Arial;background-color:pink;font-size:50px;"> Vẽ lưu đồ thuật toán </h1>
     <span>
         <p style="color:blue;font-size:20px;font-family:Arial;font-size:30px;">Thư mục chứa đề tại
         <a href="https://drive.google.com/drive/folders/1-huEQhc7c4zG3i7XNkEUlXylODyWNHL7" target="_blank" style="text-decoration: none;color:red;font-size: 25px;"> đây </a>
@@ -43,61 +43,61 @@
             </p>  
         </h1>
     </div>
-    <p> Bài 3 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 3 </p>
     <div>
-        <h1>
-          
-                <p><sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub> </p>  
+        <h1 id="exercises">
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+                <span> Dạng tổng quát: tại thời điểm i, biểu thức có dạng: <sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub> </span>
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Dùng 2 biến để tính tử và mẫu: tu*=x,mau+=i </p>
             </p>  
         </h1>
     </div>
-    <p > Bài 4 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 4 </p>
     <div>
-        <h1>
-          
-                <p> Dạng tổng quát: tại thời điểm i, biểu thức có dạng: (-1)<sup>i</sup>.x<sup>2i</sup> </p>
+        <h1 id="exercises">
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+                <span> Dạng tổng quát: tại thời điểm i, biểu thức có dạng: (-1)<sup>i</sup>.x<sup>2i</sup> </span>
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Dùng 2 biến để tính giá trị (-1)<sup>i</sup> và giá trị x<sup>2i</sup> tại thời điểm i </p>
             </p>  
         </h1>
     </div>
-    <p> Bài 5 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 5 </p>
     <div>
-        <h1>
-          
-                <n> Thử chạy tay với biến x và n đủ nhỏ để tìm thuật toán phù hợp, chạy từ ở trong ra </p>
+        <h1 id="exercises">
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+                <span> Thử chạy tay với biến x và n đủ nhỏ để tìm thuật toán phù hợp, chạy từ ở trong ra </span>
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Tại thời điểm i: sqrt(x<sup>i</sup>+sqrt(x<sup>i-1</sup>+sqrt(..+sqrt(x))))  </p>
                 <p>- Dùng 2 biến để tính giá trị x và tổng giá trị căn tại thời điểm i</p>
             </p>  
         </h1>
     </div>
-    <p> Bài 6 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 6 </p>
     <div>
         <h1 id="exercises">
-        
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
                 <p>- Lần 1: tính tổng 1/n và dùng setprecision(6) -> sai </p>
                 <p>- Lần 2: Lặp đến khi nào sum=1+<sup>1</sup>&frasl;<sub>2</sub>+<sup>1</sup>&frasl;<sub>3</sub>+...+<sup>1</sup>&frasl;<sub>n</sub> có độ chính xác 10<sup>-6</sup>  </p>                
             </p>  
         </h1>
     </div>
-    <p> Bài 7 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 7 </p>
     <div>
         <h1 id="exercises">
-        
-                <p> Dạng tổng quát: tại thời điểm i (i>1), biểu thức có dạng: a<sub>n</sub>=5.a<sub>i-1</sub>+2.3<sup>i</sup>-6.7<sup>i</sup>+12</p>
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+                <span> Dạng tổng quát: tại thời điểm i (i>1), biểu thức có dạng: a<sub>n</sub>=5.a<sub>i-1</sub>+2.3<sup>i</sup>-6.7<sup>i</sup>+12</span>
                 <p> - Khởi tạo a<sub>1</sub>=-2 </p>
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Sử dụng 3 biến để tính (tại thời điểm i): 5.a<sub>i-1</sub>,2.3<sup>i</sup>,-6.7<sup>i</sup>+12</p>
             </p>  
         </h1>
     </div>
-    <p> Bài 8 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 8 </p>
     <div>
         <h1 id="exercises">
-        
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
                 <p> Đầu vào quy định x,y,z đã là 3 cạnh tam giác nên không cần kiểm tra có phải 3 cạnh hay không </p>
                 <p> Sử dụng tính chất về cạnh để phân loại tam giác </p>
                 <ol>
@@ -110,23 +110,23 @@
             </p>  
         </h1>
     </div>
-    <p> Bài 9 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 9 </p>
     <div>
         <h1 id="exercises">
-        
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
                 <p>- Trong khi code, có thể dùng sqrt() và ép kiểu về int </p>
-                <p>- Kiểm tra tích sqrt() có bằng n hay không( dựa vào tính chất số chính phương) hoặc ta có thể dùng vòng for từ 1 đến n/2 để kiểm tra,nếu i.i = n thì n là số chính phương còn nếu vòng lặp không số nào thỏa thì n không phải số chính phương</p>
+                <span>- Kiểm tra tích sqrt() có bằng n hay không( dựa vào tính chất số chính phương) hoặc ta có thể dùng vòng for từ 1 đến n/2 để kiểm tra,nếu i.i = n thì n là số chính phương còn nếu vòng lặp không số nào thỏa thì n không phải số chính phương</span>
             </p>  
         </h1>
     </div>
-    <p> Bài 10 </p>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 10 </p>
     <div>
         <h1 id="exercises">
-        
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
                 <span> N có dạng 5<sub>m</sub>(m>=0) là N chia hết cho 5, ta chỉ cần N/5 đến khi nào N<span data-entity="&amp;lt;" data-code="&amp;#60;" data-unicode="\003C" data-hex="&amp;#x3c;" data-css="\3C ">
                         &lt;            </span>5 và xem khi N<span data-entity="&amp;lt;" data-code="&amp;#60;" data-unicode="\003C" data-hex="&amp;#x3c;" data-css="\3C ">
                         &lt;            </span>5 có dư hay không
-</span>5 có dư hay không </p>
+</span>5 có dư hay không </span>
                 <p>Nếu dư thì N không phải dạng 5<sup>m</sup> Ngược lại thì N là dạng 5<sup>m</sup> </p>
             </p>  
         </h1>
