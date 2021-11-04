@@ -1,6 +1,29 @@
-# WU về Topic 1 và 3
-[Tải file đề tại đây](https://drive.google.com/drive/folders/1-huEQhc7c4zG3i7XNkEUlXylODyWNHL7)
-<p style="color:peru;font-weight: bold;font-size:28px;"> Bài 1 </p>
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+    <meta name ="viewport" content="width=device-width,initial-scale=1"/>
+    <style> 
+        #exercises
+        {
+            font-size:24px;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color:indianred;
+        }
+    </style>
+</head>
+
+<body>
+    <title>
+        Topic 1
+    </title>
+    <h1 style="text-align:center;font-family:Arial;background-color:pink;font-size:50px;"> Vẽ lưu đồ thuật toán </h1>
+    <span>
+        <p style="color:blue;font-size:20px;font-family:Arial;font-size:30px;">Thư mục chứa đề tại
+        <a href="https://drive.google.com/drive/folders/1-huEQhc7c4zG3i7XNkEUlXylODyWNHL7" target="_blank" style="text-decoration: none;color:red;font-size: 25px;"> đây </a>
+        </p>
+    </span>
+    <p style="color:peru;font-weight: bold;font-size:28px;"> Bài 1 </p>
     <div>
         <h1 id="exercises">
             <p>
@@ -24,7 +47,7 @@
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
-                <span> Dạng tổng quát: tại thời điểm i, biểu thức có dạng: <sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub> </span>
+                <sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub>
                 
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Dùng 2 biến để tính tử và mẫu: tu*=x,mau+=i </p>
@@ -109,3 +132,6 @@
             </p>  
         </h1>
     </div>
+</body>
+
+</html>
