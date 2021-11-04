@@ -17,7 +17,7 @@
     <title>
         Topic 1
     </title>
-    <h1 style="text-align:center;font-family:Arial;background-color:pink;font-size:50px;"> Vẽ lưu đồ thuật toán </h1>
+    <h1> Vẽ lưu đồ thuật toán </h1>
     <span>
         <p style="color:blue;font-size:20px;font-family:Arial;font-size:30px;">Thư mục chứa đề tại
         <a href="https://drive.google.com/drive/folders/1-huEQhc7c4zG3i7XNkEUlXylODyWNHL7" target="_blank" style="text-decoration: none;color:red;font-size: 25px;"> đây </a>
@@ -47,7 +47,7 @@
     <div>
         <h1 id="exercises">
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
-                <sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub>
+            <p><sup>x<sub>i</sub></sup>&frasl;<sub>(1+...+i)</sub> </p>
                 
                 <p>- Sử dụng vòng lặp để tính </p>
                 <p>- Dùng 2 biến để tính tử và mẫu: tu*=x,mau+=i </p>
